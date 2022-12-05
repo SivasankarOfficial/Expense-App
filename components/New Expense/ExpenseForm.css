@@ -1,0 +1,60 @@
+.formdiv{
+    display: flex;
+    justify-content: center;
+
+}
+form{
+    padding: 2em;
+    background-color: rgb(164, 93, 231);
+    border-radius: 7px;
+}
+input{
+    padding: 0.8em;
+    width: 17em;
+    border-radius: 5px;
+    border: none;
+    outline: none;
+    margin: 3px;
+}
+input[type='submit']{
+    transform: translateX(9px);
+    margin-top: 1em;
+    background-color: rgb(44, 44, 190);
+    color: white;
+}
+
+h2{
+    text-align: center;
+    background-color: rgb(39, 96, 201);
+    width: fit-content;
+    /* margin-left: 550px; */
+    padding: 10px 50px;
+    border-radius: 10px;
+}
+#butn{
+    display: flex;
+    justify-content: center;
+    
+
+}
+/* button{
+    transform: translateX(9px);
+    margin-top: 1em;
+    background-color: rgb(44, 44, 190);
+    color: white;
+
+}  */
+#btn-newex{
+
+    margin-top: 1em;
+    background-color: rgb(44, 44, 190);
+    color: white;
+    padding: 1em;
+
+
+}
+#nwEx{
+    display: flex;
+    justify-content: center;
+}
+    
